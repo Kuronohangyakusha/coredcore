@@ -3,9 +3,9 @@
     "keywords": ["core"],
     "autoload": {
         "psr-4": {
-            "App\\Core\\Abstract\\": "core/abstract/",
-            "App\\Core\\Middlewares\\": "core/middlewares/",
-            "App\\Core\\":"core/"
+            "App\\Core\\Abstract\\": "src/abstract/",
+            "App\\Core\\Middlewares\\": "src/middlewares/",
+            "App\\Core\\":"src/"
         }
     },
     "authors": [
