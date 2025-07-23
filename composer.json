@@ -1,0 +1,19 @@
+{
+    "name": "ciara/core",
+    "keywords": ["core"],
+    "autoload": {
+        "psr-4": {
+            "App\\Core\\Abstract\\": "core/abstract/",
+            "App\\Core\\Middlewares\\": "core/middlewares/",
+            "App\\Core\\":"core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kuronohangyakusha",
+            "email": "nndeyendiaye85@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
